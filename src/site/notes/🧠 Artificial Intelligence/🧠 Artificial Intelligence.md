@@ -3,5 +3,6 @@
 ---
 
 
+- [[🧠 Artificial Intelligence/🔥 Schema Slide\|🔥 Schema Slide]]
 
 { .block-language-dataview}
